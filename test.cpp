@@ -4,5 +4,6 @@ int main()
 {
 	cout << "hello";
 	cout << "hi";
+	cout << "ni hao";
 	return 0;
 }
